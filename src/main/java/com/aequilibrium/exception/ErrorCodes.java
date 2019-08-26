@@ -1,12 +1,3 @@
-/*
-* Copyright 2018 Builders
-*************************************************************
-*Nome     : ErrorCodes.java
-*Autor    : Builders
-*Data     : Thu Mar 08 2018 00:02:30 GMT-0300 (-03)
-*Empresa  : Platform Builders
-*************************************************************
-*/
 package com.aequilibrium.exception;
 
 public interface ErrorCodes {
